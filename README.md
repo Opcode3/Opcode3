@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joseph Emmanuel Emeka from Nigeria
+- 👋 Hi, I’m Joseph
 - 👀 I’m interested in a remote jobs.
 - 🌱 I’m currently a freelance developer.
 - 💞️ I’m looking to collaborate on project that will increase my understanding about programming and also bring in finance.
